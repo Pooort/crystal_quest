@@ -1,0 +1,4 @@
+level_id,name,background_color,width,time_limit,player_start_x,player_start_y
+1,Лесная пещера,#2d5a27,2400,120,120,200
+2,Ледяной дворец,#1a3a5c,3200,100,120,200
+3,Огненное ядро,#5c1a1a,4000,80,120,200
